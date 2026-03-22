@@ -1,0 +1,7 @@
+plc-data-logger-opcua/
+│
+├── plc_logger.py
+├── config.py
+├── requirements.txt
+├── data_log.csv
+└── README.md
