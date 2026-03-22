@@ -1,7 +1,7 @@
 # PLC-Data-Logger
-PLC Siemens S1200 Data Log using Python, OPC UA  &amp; MongoDB
+
 ## 📌 Overview
-This project is based on industrial automation and SCADA systems.
+Logs PLC data using OPC UA and saves to CSV.
 
 ## ⚙️ Features
 - Real-time data monitoring
