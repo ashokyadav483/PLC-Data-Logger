@@ -1,18 +1,25 @@
-# PLC-Data-Logger
+# PLC Data Logger (OPC UA)
 
 ## 📌 Overview
-Logs PLC data using OPC UA and saves to CSV.
+This project logs real-time PLC data using OPC UA protocol and stores it in a CSV file.
 
 ## ⚙️ Features
-- Real-time data monitoring
-- PLC communication
-- Dashboard visualization
+- Real-time PLC data reading
+- OPC UA communication
+- Data logging to CSV
+- Easy configuration
 
 ## 🛠️ Technologies
 - Python
 - OPC UA
-- Streamlit
 - Pandas
-- Siemens S1200 TIA 19 
+
+## 🚀 How to Run
+1. Install requirements:
+   pip install -r requirements.txt
+
+2. Run:
+   python plc_logger.py
+
 ## 👨‍💻 Author
 Ashok Kumar Yadav
